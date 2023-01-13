@@ -23,9 +23,7 @@ Criado ultilizando:<br>
   Os links estão funcionais redirecionando a videos, instagram, whatsApp e email e download do CV.
   
 <br>
-  <a href="https://shirley-mendes.netlify.app/" target="_blank" >Que tal me dar um feedback 😃</a>
-  
-  %md <a href="https://google.com" target="_blank">link do Google</a>
+  <a href="https://shirley-mendes.netlify.app/" >Veja como ficou! 😄</a>
   
  
   
